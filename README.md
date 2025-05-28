@@ -12,7 +12,9 @@ This data anlysis project allows to generate insight into the sales performance 
 the primary source of Data used for the project is ......... and this show 
 
 #### Tool used 
-- Microsoft Excell for Data collection and clearning [Download Here] (https://www.microsoft.com)
+- Microsoft Excell for Data collection and clearning (https://www.microsoft.com)
 - SQL Server (for quering and Analysis)
-- Power BI (for creating a report 
+- Power BI (for creating a report
+
+#### Data Clearning (Excel) 
 
