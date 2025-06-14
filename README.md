@@ -16,7 +16,8 @@ the primary source of Data used for the project is ......... and this show
 - SQL Server (for quering and Analysis)
 - Power BI (for creating a report
 
-#### Data Clearning (Excel) 
+#### Data Clearning (Excel)
+
 
 
 
