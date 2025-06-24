@@ -1,10 +1,11 @@
-# AMAZON DOCUMENTATION 
-This is where I will showcase all the experience gotten from Digital Skillup Africa (DSA) class. Experience I will never forget.
+# AMAZON PROJECT 
+This is where I will document all the experience gotten from insception of the Digital Skillup Africa (DSA) from 21sth Aprial to June, 2025. A wonderful experience I will never forget in a horry.
 
 ## THE JOURNEY SO FAR:  
-I have learnt quiet a number of things ranging from Ms Excel to SQL, Building of portolio and Power BI
+I have learnt quiet a number of things from the aforementioned date above; ranging from Ms Excel to SQL, Building of portolio and Power BI
 
 ### THE PROJECT TOPIC: DATA ANALYSIS
+
 #### Project Overview
 This data anlysis project allows to generate insight into the sales performance of the ......... prject oerteh past year. by analysing the various performance in the data .......
 
