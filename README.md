@@ -1,11 +1,11 @@
 # AMAZON PROJECT 
-This repository will showcase the Amazon product review analysis project of the Digital Skillup Africa (DSA) given to me as a Junor Data Analyst. It is part of the prerequisit assignment that will inturn help me to up-skill my career and be rated as a data analyst.     
+This repository will showcase the Amazon product review analysis project of the Digital Skillup Africa (DSA) given to me as a Junior Data Analyst. It is part of the prerequisit assignment that will inturn help me to up-skill my career and be rated as a data analyst.     
 
 ### THE PROJECT TOPIC: REVIEW ANALYSIS OF AMAZON PRODUCT
-Amazon
+A Comprehensive Exploratory Data (EDA) will be deploy using Excel tools and relevant techniques to the context of each analysis.
 
 #### Project Overview
-This data anlysis project allows to generate insight into the sales performance of the ......... prject oerteh past year. by analysing the various performance in the data .......
+Amazon is a company that provides E-commerce sales. They deals with different kinds of equipment/electronics and gadgets ranging from electronicsa and  accessorys, computer/accessories, car and motor bikes accessories, helath and personal care medical equipments, musical instrument, office products, toys and games etc. This data anlysis project allows to generate insight that can gide product improvement,marketing strategies and customer engagement of the company
 
 #### Data Source
 the primary source of Data used for the project is ......... and this show 
