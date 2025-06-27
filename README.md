@@ -1,10 +1,8 @@
 # AMAZON PROJECT 
-This is where I will document all the experience gotten from insception of the Digital Skillup Africa (DSA) from 21sth Aprial to June, 2025. A wonderful experience I will never forget in a horry.
+This repository will showcase the Amazon product review analysis project of the Digital Skillup Africa (DSA) given to me as a Junor Data Analyst. It is part of the prerequisit assignment that will inturn help me to up-skill my career and be rated as a data analyst.     
 
-## THE JOURNEY SO FAR:  
-I have learnt quiet a number of things from the aforementioned date above; ranging from Ms Excel to SQL, Building of portolio and Power BI
-
-### THE PROJECT TOPIC: DATA ANALYSIS
+### THE PROJECT TOPIC: REVIEW ANALYSIS OF AMAZON PRODUCT
+Amazon
 
 #### Project Overview
 This data anlysis project allows to generate insight into the sales performance of the ......... prject oerteh past year. by analysing the various performance in the data .......
