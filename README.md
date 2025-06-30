@@ -43,7 +43,7 @@ A Comprehensive Exploratory Data (EDA) were deployed using Excel tools and relev
 ### Data Cleaning/Preparation (Excel):
 The Amazon Casy study dataset undergo a cleaning section. we have 2 options for the cleaning. We can go by writing formular or use Excel power query, I choosed Power query instead. to "DATA" menu, from get and transform data, the table/range, the data was loaded to the Excel power querry, I viewed it to see the column quality, going through it, I observed that there was 1 error in rating count only. as far as am concerned the data is dirty. I shortened the "category" aspected of the dataset to make it look good if not, in course of the analysis it may be too long.
 
-##### Data Analysis:
+### Data Analysis:
 
 - Highlit and Right click on the category to choose split column by delimiter i.e. "left most delimiter", Okay, it split it into two, in the computer and accessories writing together
 - right click again to replace values i.e value to find & then replace with space (it will be divided into two
@@ -67,10 +67,15 @@ The Amazon Casy study dataset undergo a cleaning section. we have 2 options for 
    To calculate the Potential Revenue:
    =Sum(actual price * Rating count)
 
-   For Price Range:
+     For Price Range:
    = IF(actual price <200, "<200",IF(actual price<=500,"200-500",">500"))
 
    For More than 50% Discount:
    =IF(H2>=50%,">50%","<50%")
+
+   ### Results/Findings:
+
+   
+   
 
    
