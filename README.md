@@ -15,10 +15,23 @@ Secondary data source was used for the project. The dataset contains information
 #### Tool used: 
 - Microsoft Excell downloaded Dataset (https://www.microsoft.com)
 #####  Analysis Task:
-* To use Pivot tables and calculated columns:
-  1. Cleaning 
+* The analysis will be based on the use Pivot tables and calculated columns where necessary to answer the following;
+  1. Find the average discount percentages by Product category
+  2. Check how many products that are listed under each category
+  3. Calculate the total number of review per category
+  4. show product that has the highest average ratings
+  5. acertain the average actual prices Vs the discounted prices by category
+  6. List the products that have the highest number of reveiws
+  7. Find how  many products that have a discount of 50% or more
+  8. Show the distribution of product ratings i.e. how many products that are rateed 3.0, 4.0 etc
+  9. calculate thetotal potential revenue of actual price * rating count by category
+  10. Finds out the number of unique products per price range bucket e.g. <200, <200-500, >500
+  11. HOw doe the rating relate to the level of discount
+  12. Check how many products have fewer than 1,000 reviews
+  13. Which categories have product with teh hest discounts
+  14. To identify the top 5 products in terms of rating and number of reviews combined
 
-#### Data Clearning (Excel)
+#### Data Clearning (Excel):
 
 
 
