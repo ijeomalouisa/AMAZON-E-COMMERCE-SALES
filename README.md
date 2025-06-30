@@ -14,7 +14,7 @@ Secondary data source was used for the project. The dataset contains information
 
 #### Tool used: 
 - Microsoft Excell downloaded Dataset (https://www.microsoft.com)
-#####  Analysis Task:
+#####  Analysis Task 1:
 * The analysis will be based on the use Pivot tables and calculated columns where necessary to answer the following;
   1. Find the average discount percentages by Product category
   2. Check how many products that are listed under each category
@@ -30,8 +30,11 @@ Secondary data source was used for the project. The dataset contains information
   12. Check how many products have fewer than 1,000 reviews
   13. Which categories have product with teh hest discounts
   14. To identify the top 5 products in terms of rating and number of reviews combined
+  ##### Task 2: Dashboard Creation
+  *    To use the cleare dataset and pivot outputs and build an Excel dashboard to unleash beautiful creativity
 
 #### Data Clearning (Excel):
+The dataset undergo a cleaning section where from the Data menu; table/range, the data was loaded to the power query 
 
 
 
