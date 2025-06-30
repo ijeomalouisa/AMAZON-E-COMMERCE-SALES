@@ -21,7 +21,7 @@ Amazon Sales Data: The primary dataset used for this analysis is the "Amazon_Cas
 
 ###  The Exploratory Data Analysis (EDA):
 A Comprehensive Exploratory Data (EDA) were deployed using Excel tools and relevant techniques to the context of each analysis.
-##### Task 1:
+##### Analysis Question 1:
 * The analysis will be based on the use of Pivot tables and calculated columns where necessary to answer the following;
   1. Find the average discount percentages by Product category
   2. Check how many products that are listed under each category
@@ -37,7 +37,7 @@ A Comprehensive Exploratory Data (EDA) were deployed using Excel tools and relev
   12. Check how many products have fewer than 1,000 reviews
   13. Which categories have product with teh hest discounts
   14. To identify the top 5 products in terms of rating and number of reviews combined
-  #### Task 2: Dashboard Creation
+  #### Analaysis Question 2: Dashboard Creation
   *    To use the cleare dataset and pivot outputs and build an Excel dashboard to unleash beautiful creativity
 
 ### Data Cleaning/Preparation (Excel):
