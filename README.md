@@ -8,7 +8,7 @@ Amazon product review analysis project of the Digital Skillup Africa (DSA) was g
 Amazon is a company that provides E-commerce sales. They deals with different kinds of equipment/electronics and gadgets ranging from electronicsa and  accessorys, computer/accessories, car and motor bikes accessories, helath and personal care medical equipments, musical instrument, office products, toys and games etc. This data anlysis project allows to generate insight that can gide product improvement,marketing strategies and customer engagement of the company
 
 ### Data Source:
-Amazon Sales Data: The primary dataset used for this analysis is the "Amazon_Case_Study.xlxs" file. lThe dataset contains information from each sales which includes;
+Amazon Sales Data: The primary dataset used for this analysis is the "Amazon_Case_Study.xlsX" file. lThe dataset contains information from each sales which includes;
 * Product details: name, category, price, discount and ratings
 * Customer engagement: user reviews, titles, an content
 
@@ -63,3 +63,14 @@ The Amazon Casy study dataset undergo a cleaning section. we have 2 options for 
 
    To shortened the Product Category:
    =IFERROR(LEFT(C2,FIND("&",C2)-1)C2)
+
+   To calculate the Potential Revenue:
+   =Sum(actual price * Rating count)
+
+   For Price Range:
+   = IF(actual price <200, "<200",IF(actual price<=500,"200-500",">500"))
+
+   For More than 50% Discount:
+   =IF(H2>=50%,">50%","<50%")
+
+   
