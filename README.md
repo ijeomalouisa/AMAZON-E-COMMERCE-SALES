@@ -34,7 +34,9 @@ Secondary data source was used for the project. The dataset contains information
   *    To use the cleare dataset and pivot outputs and build an Excel dashboard to unleash beautiful creativity
 
 #### Data Clearning (Excel):
-The dataset undergo a cleaning section where from the Data menu; table/range, the data was loaded to the power query 
+The Amazon Casy study dataset undergo a cleaning section. we have 2 options for the cleaning. We can go by writing formular or use Excel power query, I choosed Power query instead. to "DATA" menu, from get and transform data, the table/range, the data was loaded to the Excel power querry, I viewed it to see the column quality, going through it, I observed that there was 1 error in rating count only. as far as am concerned the data is dirty. I shortened the "category" aspected of the dataset to make it look good
+##### Steps taking:
+- Highlit and Right click on the category to choose split column by "left most delimiter" 
 
 
 
