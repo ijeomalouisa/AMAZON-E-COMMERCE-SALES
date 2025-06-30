@@ -67,7 +67,7 @@ The Amazon Casy study dataset undergo a cleaning section. we have 2 options for 
    To calculate the Potential Revenue:
    =Sum(actual price * Rating count)
 
-     For Price Range:
+   For Price Range:
    = IF(actual price <200, "<200",IF(actual price<=500,"200-500",">500"))
 
    For More than 50% Discount:
