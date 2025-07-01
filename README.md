@@ -66,10 +66,9 @@ In view of the preparation task concerning this product, I perform the following
 
 
 
+  ![Uploading Excel Power query.png…]()
 
 
-  
-#### Writi<img width="858" alt="Excel Power query" src="https://github.com/user-attachments/assets/889a0368-7c25-45bb-b05d-08e2939fb823" />
 ng calculated Column formulars: 
 ...xlsx
 
