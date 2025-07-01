@@ -82,6 +82,10 @@ In view of the preparation task concerning this product, I perform the following
    =IF(H2>=50%,">50%","<50%")
 
    ### Results/Findings:
+   The result of the analysis are summarized as follows;
+   - Electronics has the highest demand
+   - Toys and Games has the lowest review both in the rating and demand
+   
 
    
 
