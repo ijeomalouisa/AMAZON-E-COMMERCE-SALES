@@ -59,7 +59,7 @@ In view of the preparation task concerning this product, I perform the following
 15. I removed other columns that are not needed. the img link, user-name, review content and product link were removed because they are not necessary.
 16. Close and Load my query.
 
-#### Data Analysis: Here are some interesting codes used in the course of this analysis
+#### Steps taken in Data Cleaning: Here are some interesting codes used in the course of this Cleaning analysis
 - conditional columns
 - split columns. See below the other codes; 
 
@@ -80,15 +80,8 @@ In view of the preparation task concerning this product, I perform the following
 
    For More than 50% Discount:
    =IF(H2>=50%,">50%","<50%")
-
-   ### Results/Findings:
-   The result of the analysis are summarized as follows;
-   - The products category in electornics, computers, and Home and kitcen accessories has higher potential for generating more revenue
-   - The company should analyze and improve low revenue products or consider alternatives i.e. optimization, repositioning or discontinuation of the products.
-
-
-
-
+### METRICS
+   
 <img width="273" alt="Potential Revenue" src="https://github.com/user-attachments/assets/bab84bd8-2e2b-4e02-890f-9e2d88d2e0d3" />
 
 ### INFERENCES
@@ -97,7 +90,11 @@ There is a strong market demand of elecronics accessorie, computer and accessori
 
    
 
-   
+   ### Results/Findings:
+   The result of the analysis are summarized as follows;
+   - The products category in electornics, computers, and Home and kitcen accessories has higher potential for generating more revenue
+   - The company should analyze and improve low revenue products or consider alternatives i.e. optimization, repositioning or discontinuation of the products.
+
 
 
 
