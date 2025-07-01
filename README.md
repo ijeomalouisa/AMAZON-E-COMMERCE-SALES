@@ -66,7 +66,7 @@ In view of the preparation task concerning this product, I perform the following
 
 
 
-<img width="858" alt="Excel Power query" src="https://github.com/user-attachments/assets/7c21e956-3049-491a-a2a7-73bc5aa11eef" />
+
 
   
 #### Writi<img width="858" alt="Excel Power query" src="https://github.com/user-attachments/assets/889a0368-7c25-45bb-b05d-08e2939fb823" />
