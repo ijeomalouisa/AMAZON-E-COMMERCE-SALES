@@ -80,11 +80,12 @@ In view of the preparation task concerning this product, I perform the following
 
    For More than 50% Discount:
    =IF(H2>=50%,">50%","<50%")
+   
 ### KEY METRICS
 
-1. POTENTIAL REVENUE:
+**POTENTIAL REVENUE:**
 
-Having Calculated and suming the Revenue by Product categories, as the power pivot tips  results indicates, 
+Having Calculated and sumed the Revenue by Product categories, as the power pivot tips  results indicates, 
    
 <img width="273" alt="Potential Revenue" src="https://github.com/user-attachments/assets/bab84bd8-2e2b-4e02-890f-9e2d88d2e0d3" />
 
@@ -95,12 +96,11 @@ There is a strong market demand of elecronics accessories, computer and accessor
 On This Other hand, There is a Low revenue generation in Toys & Games, Car & motor bike, home improvement Health & personal care equipments. The inference might be because in the Categories, there is low demand from the audience or that the pricing straegy are not competitive. This inference is informed from the #2,380,050, #4,472,000, #6,163,434 and #6,959,700 revenue generated from the product categories. The company should monitor customer feedback and market trends to drive sales grwoth and product success of this goods also revise the procing, marketing or pricing from positioning from there, what is not working might start working.
 
 
-2. **Real Time Relationship Product category, Price Range Buckect and High Discount**
+2. **Real-time filtering across(Slicer) of Product category, Price Range Buckect and High Discount**
 
 
+   <img width="335" alt="Slicers " src="https://github.com/user-attachments/assets/c0c5cd4e-3a9a-42ef-862a-a61a79d0bfe9" />
 
-
-   
 
    ### Results/Findings:
    The result of the analysis are summarized as follows;
