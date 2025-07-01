@@ -37,11 +37,11 @@ A Comprehensive Exploratory Data (EDA) were deployed using Excel tools and relev
   13. Which categories have product with teh hest discounts
   14. To identify the top 5 products in terms of rating and number of reviews combined
   
-  #### Task Question 2: Dashboard Creation
-  I will use the clean dataset and pivot outputs and build an Excel dashboard to unleash beautiful creativity
+#### Task Question 2: Dashboard Creation
+I will use the clean dataset and pivot outputs and build an Excel dashboard to unleash beautiful creativity
 
-### Data Cleaning/Preparation (Excel):
-In view of the preparation task concerning this product, I perform the following: we have 2 options for the cleaning. We can go by writing formular or use Excel power query, I choosed Power query instead. 
+### DATA CLEANING/PREPARATION (EXCEL)
+In view of the preparation task concerning this product, I performed the followings: we have 2 options for the cleaning. We can go by writing formular or use Excel power query, I choosed Power query instead. 
 1. To "DATA" menu, from get and transform data, the table/range,
 2. The data was loaded to the Excel power querry,
 3. I viewed it to see the column quality, going through it, I observed that there was 1 error in rating count only. as far as am concerned the data is dirty.
@@ -63,7 +63,7 @@ In view of the preparation task concerning this product, I perform the following
 - conditional columns
 - split columns. See below the other codes; 
 
-  <img width="858" alt="Excel Power query" src="https://github.com/user-attachments/assets/e39c8e85-e74d-4e2e-bb75-ded5babd9126" />
+<img width="858" alt="Excel Power query" src="https://github.com/user-attachments/assets/e39c8e85-e74d-4e2e-bb75-ded5babd9126" />
 
 
 #### Some writing calculated Column formulars: 
