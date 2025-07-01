@@ -41,22 +41,23 @@ A Comprehensive Exploratory Data (EDA) were deployed using Excel tools and relev
   *    To use the cleare dataset and pivot outputs and build an Excel dashboard to unleash beautiful creativity
 
 ### Data Cleaning/Preparation (Excel):
-The Amazon Casy study dataset undergo a cleaning section. we have 2 options for the cleaning. We can go by writing formular or use Excel power query, I choosed Power query instead. to "DATA" menu, from get and transform data, the table/range, the data was loaded to the Excel power querry, I viewed it to see the column quality, going through it, I observed that there was 1 error in rating count only. as far as am concerned the data is dirty. I shortened the "category" aspected of the dataset to make it look good if not, in course of the analysis it may be too long.
-
-### Data Analysis:
-
-- Highlit and Right click on the category to choose split column by delimiter i.e. "left most delimiter", Okay, it split it into two, in the computer and accessories writing together
-- right click again to replace values i.e value to find & then replace with space (it will be divided into two
-- HomeImprovement, MusicalIstrument and Officepractice are still together and they are the three arguments I added space
-- Go to add column, "Conditional column", HomeImprovement, category 1, then HomeImprovement writing in space e.g. replace Home Improvement
-- add clause to repeat the remaining two i.e. MusicalInstrument and OfficePractice
-- Else Category 1
-- in the product name, count the number of character, I counted and stoped at 25 character including the spaces,
-- split the column again BUT not by delimiter, Split by number of character "once as far left as posible"
-- add the 25 and check on "once as far left as possible
-- Right Click and remove the splited right column
-- change the data types
-- I removed other columns that are not needed. the img link, user-name, review content and product link were removed because they are not necessary.
+In view of the preparation task concerning this product, I perform the following: we have 2 options for the cleaning. We can go by writing formular or use Excel power query, I choosed Power query instead. 
+1. To "DATA" menu, from get and transform data, the table/range,
+2. The data was loaded to the Excel power querry,
+3. I viewed it to see the column quality, going through it, I observed that there was 1 error in rating count only. as far as am concerned the data is dirty.
+4. I shortened the "category" aspected of the dataset to make it look good if not, in course of the analysis it may be too long.
+5. Highlit and Right click on the category to choose split column by delimiter i.e. "left most delimiter", Okay, it split it into two, in the computer and accessories writing together
+6. right click again to replace values i.e value to find & then replace with space (it will be divided into two
+7. HomeImprovement, MusicalIstrument and Officepractice are still together and they are the three arguments I added space
+8. Go to add column, "Conditional column", HomeImprovement, category 1, then HomeImprovement writing in space e.g. replace Home Improvement
+9. add clause to repeat the remaining two i.e. MusicalInstrument and OfficePractice, Else Category 1
+10. In the product name, count the number of character, I counted and stoped at 25 character including the spaces,
+11. split the column again BUT not by delimiter, Split by number of character "once as far left as posible"
+12. add the 25 and check on "once as far left as possible
+13. Right Click and remove the splited right column
+14. change the data types
+15. I removed other columns that are not needed. the img link, user-name, review content and product link were removed because they are not necessary.
+16. Close and Load my query.
 
 #### Writing calculated Column formulars: 
 ...xlsx
