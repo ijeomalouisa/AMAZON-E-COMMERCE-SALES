@@ -66,7 +66,8 @@ In view of the preparation task concerning this product, I perform the following
 
 
 
-  ![Uploading Excel Power query.png…]()
+  <img width="858" alt="Excel Power query" src="https://github.com/user-attachments/assets/e39c8e85-e74d-4e2e-bb75-ded5babd9126" />
+
 
 
 ng calculated Column formulars: 
