@@ -95,8 +95,13 @@ There is a strong market demand of elecronics accessories, computer and accessor
 
 On This Other hand, There is a Low revenue generation in Toys & Games, Car & motor bike, home improvement Health & personal care equipments. The inference might be because in the Categories, there is low demand from the audience or that the pricing straegy are not competitive. This inference is informed from the #2,380,050, #4,472,000, #6,163,434 and #6,959,700 revenue generated from the product categories. The company should monitor customer feedback and market trends to drive sales grwoth and product success of this goods also revise the procing, marketing or pricing from positioning from there, what is not working might start working.
 
+2.   **SLICER/FILTERING**
 
-2. **Real-time filtering across(Slicer) of Product category, Price Range Buckect and High Discount**
+
+<img width="351" alt="REAL TIME FILTERING2" src="https://github.com/user-attachments/assets/8589245e-ca19-4136-bd07-c059b4c628ca" />
+
+
+**Real-time filtering across(Slicer) of Product category, Price Range Buckect and High Discount**
 
 
    <img width="335" alt="Slicers " src="https://github.com/user-attachments/assets/c0c5cd4e-3a9a-42ef-862a-a61a79d0bfe9" />
