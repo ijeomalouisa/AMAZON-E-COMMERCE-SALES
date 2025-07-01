@@ -62,6 +62,7 @@ In view of the preparation task concerning this product, I perform the following
 #### Data Analysis: Here are some interesting codes used in the course of this analysis
 - conditional columns
 - split columns
+
 ...Add files
   
 #### Writing calculated Column formulars: 
