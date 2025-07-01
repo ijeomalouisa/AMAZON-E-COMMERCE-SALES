@@ -6,21 +6,21 @@ Amazon product review analysis project of the Digital Skillup Africa (DSA) was g
 ### PROJECT OVERVIEW:
 Amazon is a company that provides E-commerce sales. They deals with different kinds of equipment/electronics and gadgets ranging from electronicsa and  accessorys, computer/accessories, car and motor bikes accessories, helath and personal care medical equipments, musical instrument, office products, toys and games etc. This data anlysis project allows to generate insight that can gide product improvement,marketing strategies and customer engagement of the company
 
-### Data Source:
+### DATA SOURCE:
 Amazon Sales Data: The primary dataset used for this analysis is the "Amazon_Case_Study.xlsX" file. lThe dataset contains information from each sales which includes;
 * Product details: name, category, price, discount and ratings
 * Customer engagement: user reviews, titles, an content
 
-### Tool used: 
+### TOOLS USED: 
 - Microsoft Excel (https://www.microsoft.com), other tools I used to explore are;
 - Excel Power query (for cleaning of the data)
 - Calculated columns (for creating new metrics of KPIs)
 - Pivot Charts( for visualizing of the summarized data
 - Pivot tables (to analyze the data from different angles to identify trends and patterns so as to make informed decision.
 
-###  The Exploratory Data Analysis (EDA):
+###  The EXPLORATORY DATA ANALYSIS (EDA):
 A Comprehensive Exploratory Data (EDA) were deployed using Excel tools and relevant techniques to the context of each analysis.
-##### Analysis Question 1:
+##### Task Question 1:
 * The analysis will be based on the use of Pivot tables and calculated columns where necessary to answer the following;
   1. Find the average discount percentages by Product category
   2. Check how many products that are listed under each category
@@ -36,7 +36,8 @@ A Comprehensive Exploratory Data (EDA) were deployed using Excel tools and relev
   12. Check how many products have fewer than 1,000 reviews
   13. Which categories have product with teh hest discounts
   14. To identify the top 5 products in terms of rating and number of reviews combined
-  #### Analaysis Question 2: Dashboard Creation
+  
+  #### Task Question 2: Dashboard Creation
   *    To use the cleare dataset and pivot outputs and build an Excel dashboard to unleash beautiful creativity
 
 ### Data Cleaning/Preparation (Excel):
