@@ -1,5 +1,4 @@
 ### AMAZON E-COMMERCE SALES
-This is where I will document the analysis made in the course of analyzing this Captstone project (Amazon_Case-Study). Mark down synthesis (#) will be used for the headings
    
 ### THE PROJECT TOPIC: REVIEW ANALYSIS OF AMAZON PRODUCT
 Amazon product review analysis project of the Digital Skillup Africa (DSA) was given to me as a Junior Data Analyst. It is part of the prerequisit assignment that will inturn help me to up-skill my career and be rated as a data analyst. 
