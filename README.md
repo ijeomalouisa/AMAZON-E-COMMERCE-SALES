@@ -80,13 +80,20 @@ In view of the preparation task concerning this product, I perform the following
 
    For More than 50% Discount:
    =IF(H2>=50%,">50%","<50%")
-### METRICS
+### kEY METRICS
+
+1. POTENTIAL REVENUE: 
    
 <img width="273" alt="Potential Revenue" src="https://github.com/user-attachments/assets/bab84bd8-2e2b-4e02-890f-9e2d88d2e0d3" />
 
-### INFERENCES
+### INFERENCES:
 
-There is a strong market demand of elecronics accessorie, computer and accessories and Home kitchen accessories among the target audience. This could be because the pricing strategies is okay with the customers and the review drive sales. Also, the products has a competitive adavantage of unique values proposition/ features.
+There is a strong market demand of elecronics accessorieS, computer and accessories and Home kitchen accessories among the target audience. This could be because the pricing strategies is okay with the customers OR that the reviews might be driving sales. Also, the products has a competitive adavantage of unique values proposition/ features. This is evedenced in High Revenue generated of Electronics accessories: 91323,918,321, Computer Accessories: 11,628,224,483 and Home & Kitchen Accessories 10,459,722,337 respectively. Amazon Basics High-Speed Product(Product name) remains the product that has the highest number of reveiw as evidenced in sum of rating count of 853,946.00, BoAt Bassheads 100 in ear 772,426.00 and RedMi 9A Phone has 627,668.00 rating count.
+
+On This Other hand, There is a Low revenue generation in Toys & Games, Car & motor bike, home improvement Health & personal care equipments. The inference might be because in the Categories, there is low demand from the audience or that the pricing straegy are not competitive.
+
+
+2. Real Time Relationship
 
    
 
