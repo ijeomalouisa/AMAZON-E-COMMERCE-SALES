@@ -101,19 +101,19 @@ On This Other hand, There is a Low revenue generation in Toys & Games, Car & mot
 <img width="351" alt="REAL TIME FILTERING2" src="https://github.com/user-attachments/assets/8589245e-ca19-4136-bd07-c059b4c628ca" />
 
 
-**Real-time filtering across(Slicer) of Product category, Price Range Buckect and High Discount**
+**Real-time filtering across(Slicer) Product category, Price Range Buckect and High Discount**
 
 
-   <img width="335" alt="Slicers " src="https://github.com/user-attachments/assets/c0c5cd4e-3a9a-42ef-862a-a61a79d0bfe9" />
+<img width="335" alt="Slicers " src="https://github.com/user-attachments/assets/c0c5cd4e-3a9a-42ef-862a-a61a79d0bfe9" />
 
-### Creation of Dashboard Usig the Cleaned Dataset and Pivot Outputs
+### Creation of Dashboard Using the Cleaned Dataset and Pivot Outputs
 
 
 
 
 <img width="427" alt="DashBoard Creation" src="https://github.com/user-attachments/assets/dd72ea8d-74d4-4160-b287-ae73b5a7a408" />
 
-
+This DashBoard unleashed different creativity indicating a guide for data-driven decisions on marketing, resource allocation, pricing, most especially to derive sales growth and product features.
 
 ### RESULTS/FINDINGS:
    The result of the analysis are summarized as follows;
