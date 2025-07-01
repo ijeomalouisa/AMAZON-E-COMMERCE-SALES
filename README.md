@@ -88,7 +88,12 @@ In view of the preparation task concerning this product, I perform the following
 
 
 
-### INFERENCES 
+
+<img width="273" alt="Potential Revenue" src="https://github.com/user-attachments/assets/bab84bd8-2e2b-4e02-890f-9e2d88d2e0d3" />
+
+### INFERENCES
+
+There is a strong market demand of elecronics accessorie, computer and accessories and Home kitchen accessories among the target audience. This could be because the pricing strategies is okay with the customers and the review drive sales. Also, the products has a competitive adavantage of unique values proposition/ features.
 
    
 
