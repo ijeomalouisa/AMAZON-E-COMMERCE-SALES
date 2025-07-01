@@ -1,4 +1,4 @@
-### AMAZON E-COMMERCE SALES
+### AMAZON E-COMMERCE SALES ANALYSIS
    
 ### THE PROJECT TOPIC: REVIEW ANALYSIS OF AMAZON PRODUCT
 Amazon product review analysis project of the Digital Skillup Africa (DSA) was given to me as a Junior Data Analyst. It is part of the prerequisit assignment that will inturn help me to up-skill my career and be rated as a data analyst. 
@@ -19,7 +19,7 @@ Amazon Sales Data: The primary dataset used for this analysis is the "Amazon_Cas
 - Pivot tables (to analyze the data from different angles to identify trends and patterns so as to make informed decision.
 
 ###  The EXPLORATORY DATA ANALYSIS (EDA):
-A Comprehensive Exploratory Data (EDA) were deployed using Excel tools and relevant techniques to the context of each analysis.
+A Comprehensive Exploratory Data (EDA) were deployed using Excel tools and relevant techniques to the context of each analysis. I will explore the Amazon sales data to answer these keys questions. 
 ##### Task Question 1:
 * The analysis will be based on the use of Pivot tables and calculated columns where necessary to answer the following;
   1. Find the average discount percentages by Product category
@@ -38,7 +38,7 @@ A Comprehensive Exploratory Data (EDA) were deployed using Excel tools and relev
   14. To identify the top 5 products in terms of rating and number of reviews combined
   
   #### Task Question 2: Dashboard Creation
-  *    To use the cleare dataset and pivot outputs and build an Excel dashboard to unleash beautiful creativity
+  I will use the clean dataset and pivot outputs and build an Excel dashboard to unleash beautiful creativity
 
 ### Data Cleaning/Preparation (Excel):
 In view of the preparation task concerning this product, I perform the following: we have 2 options for the cleaning. We can go by writing formular or use Excel power query, I choosed Power query instead. 
@@ -59,6 +59,11 @@ In view of the preparation task concerning this product, I perform the following
 15. I removed other columns that are not needed. the img link, user-name, review content and product link were removed because they are not necessary.
 16. Close and Load my query.
 
+#### Data Analysis: Here are some interesting codes used in the course of this analysis
+- conditional columns
+- split columns
+...Add files
+  
 #### Writing calculated Column formulars: 
 ...xlsx
 
