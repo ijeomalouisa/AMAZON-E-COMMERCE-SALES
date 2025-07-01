@@ -80,20 +80,24 @@ In view of the preparation task concerning this product, I perform the following
 
    For More than 50% Discount:
    =IF(H2>=50%,">50%","<50%")
-### kEY METRICS
+### KEY METRICS
 
-1. POTENTIAL REVENUE: 
+1. POTENTIAL REVENUE:
+2. Having Calculated and suming the Revenue by Product categories, as the power pivot tips  results indicates, 
    
 <img width="273" alt="Potential Revenue" src="https://github.com/user-attachments/assets/bab84bd8-2e2b-4e02-890f-9e2d88d2e0d3" />
 
 ### INFERENCES:
 
-There is a strong market demand of elecronics accessorieS, computer and accessories and Home kitchen accessories among the target audience. This could be because the pricing strategies is okay with the customers OR that the reviews might be driving sales. Also, the products has a competitive adavantage of unique values proposition/ features. This is evedenced in High Revenue generated of Electronics accessories: 91323,918,321, Computer Accessories: 11,628,224,483 and Home & Kitchen Accessories 10,459,722,337 respectively. Amazon Basics High-Speed Product(Product name) remains the product that has the highest number of reveiw as evidenced in sum of rating count of 853,946.00, BoAt Bassheads 100 in ear 772,426.00 and RedMi 9A Phone has 627,668.00 rating count.
+There is a strong market demand of elecronics accessories, computer and accessories and Home kitchen accessories among the target audience. This could be because the pricing strategies is okay with the customers OR that the reviews might be driving sales. Also, the products has a competitive adavantage of unique values proposition/ features. This is evedenced in High Revenue generated of Electronics accessories: 91323,918,321, Computer Accessories: 11,628,224,483 and Home & Kitchen Accessories 10,459,722,337 respectively. Amazon Basics High-Speed Product(Product name) remains the product that has the highest number of reveiw as evidenced in sum of rating count of 853,946.00, BoAt Bassheads 100 in ear 772,426.00 and RedMi 9A Phone has 627,668.00 rating count. The company should tailor marketing strategies to the high revenue product categories with high revenue products 
 
-On This Other hand, There is a Low revenue generation in Toys & Games, Car & motor bike, home improvement Health & personal care equipments. The inference might be because in the Categories, there is low demand from the audience or that the pricing straegy are not competitive.
+On This Other hand, There is a Low revenue generation in Toys & Games, Car & motor bike, home improvement Health & personal care equipments. The inference might be because in the Categories, there is low demand from the audience or that the pricing straegy are not competitive. This inference is informed from the #2,380,050, #4,472,000, #6,163,434 and #6,959,700 revenue generated from the product categories. The company should monitor customer feedback and market trends to drive sales grwoth and product success of this goods also revise the procing, marketing or pricing from positioning from there, what is not working might start working.
 
 
-2. Real Time Relationship
+2. **Real Time Relationship Product category, Price Range Buckect and High Discount**
+
+
+
 
    
 
@@ -101,6 +105,13 @@ On This Other hand, There is a Low revenue generation in Toys & Games, Car & mot
    The result of the analysis are summarized as follows;
    - The products category in electornics, computers, and Home and kitcen accessories has higher potential for generating more revenue
    - The company should analyze and improve low revenue products or consider alternatives i.e. optimization, repositioning or discontinuation of the products.
+
+### Recommendations
+
+1. The company should tailor marketing strategies to the product category with high revenue productions
+2. They should check/Re-evaluate what is not working by revising pricing, marketing or pricing positioning of the low revenue generated products
+3. Monitor custmer feedback and market trends to drive sales growth and product success.
+4. They need to allocate resources to maintain and grow sales.
 
 
 
