@@ -1,4 +1,4 @@
-### AMAZON E-COMMERCE SALES ANALYSIS
+## AMAZON E-COMMERCE SALES ANALYSIS
    
 ### THE PROJECT TOPIC: REVIEW ANALYSIS OF AMAZON PRODUCT
 Amazon product review analysis project of the Digital Skillup Africa (DSA) was given to me as a Junior Data Analyst. It is part of the prerequisit assignment that will inturn help me to up-skill my career and be rated as a data analyst. 
@@ -7,7 +7,7 @@ Amazon product review analysis project of the Digital Skillup Africa (DSA) was g
 Amazon is a company that provides E-commerce sales. They deals with different kinds of equipment/electronics and gadgets ranging from electronicsa and  accessorys, computer/accessories, car and motor bikes accessories, helath and personal care medical equipments, musical instrument, office products, toys and games etc. This data anlysis project allows to generate insight that can gide product improvement,marketing strategies and customer engagement of the company
 
 ### DATA SOURCE:
-Amazon Sales Data: The primary dataset used for this analysis is the "Amazon_Case_Study.xlsX" file. lThe dataset contains information from each sales which includes;
+Amazon Sales Data: The primary dataset used for this analysis is the "Amazon_Case_Study.xlsx" file. The dataset contains information from each sales which includes;
 * Product details: name, category, price, discount and ratings
 * Customer engagement: user reviews, titles, an content
 
@@ -61,7 +61,7 @@ In view of the preparation task concerning this product, I perform the following
 
 #### Data Analysis: Here are some interesting codes used in the course of this analysis
 - conditional columns
-- split columns
+- split columns. See below the other codes; 
 
   <img width="858" alt="Excel Power query" src="https://github.com/user-attachments/assets/e39c8e85-e74d-4e2e-bb75-ded5babd9126" />
 
@@ -83,8 +83,13 @@ In view of the preparation task concerning this product, I perform the following
 
    ### Results/Findings:
    The result of the analysis are summarized as follows;
-   - Electronics has the highest demand
-   - Toys and Games has the lowest review both in the rating and demand
+   - The products category in electornics, computers, and Home and kitcen accessories has higher potential for generating more revenue
+   - The company should analyze and improve low revenue products or consider alternatives i.e. optimization, repositioning or discontinuation of the products.
+
+
+
+### INFERENCES 
+
    
 
    
