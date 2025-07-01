@@ -83,7 +83,8 @@ In view of the preparation task concerning this product, I perform the following
 ### KEY METRICS
 
 1. POTENTIAL REVENUE:
-2. Having Calculated and suming the Revenue by Product categories, as the power pivot tips  results indicates, 
+
+Having Calculated and suming the Revenue by Product categories, as the power pivot tips  results indicates, 
    
 <img width="273" alt="Potential Revenue" src="https://github.com/user-attachments/assets/bab84bd8-2e2b-4e02-890f-9e2d88d2e0d3" />
 
