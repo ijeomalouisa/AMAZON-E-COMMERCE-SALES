@@ -100,8 +100,24 @@ Find attached the clean data set as it appears in the cleaned table.....
 
    For More than 50% Discount:
    =IF(H2>=50%,">50%","<50%")
+
+   **AMAZON POWER PIVOT TABLES:**
+
+
+<img width="634" alt="AMAZON POWER PIVOT" src="https://github.com/user-attachments/assets/3cdced33-7698-45a9-8b10-5e7a348a0d32" />
+
+
    
 ### KEY METRICS:
+
+*  Total number of Product
+*  Total potential Revenue
+*  Average Discount Percentages Per Product and
+*  Total Reviews
+
+ Kimg width="374" alt="KEY METRIC PRODUCTS" src="https://github.com/user-attachments/assets/f1851354-c205-4299-83a2-48d10e5f3e83" />
+
+
 
 **POTENTIAL REVENUE:**
 
@@ -117,7 +133,7 @@ LET'S CHECK THE AVERAGE DISCOUNT(%) PERCENTAGES BY EACH PRODUCT CATEGORY:
 <img width="323" alt="AVERAGE DISCOUNT PERCENTAGES1" src="https://github.com/user-attachments/assets/e57458ce-6ca7-4371-872c-d115d90a2f82" />
 
 
-The above showed the average discount percentages of each product, as evidenced that toy & games needs to revise the procing of the category as well as marketing positioning.
+The above showed the average discount percentages of each product category. As evidenced, the company needs to revise the pricing of the toy and games category as well as marketing positioning.
 
 
 ### INFERENCES:
@@ -125,6 +141,8 @@ The above showed the average discount percentages of each product, as evidenced 
 There is a strong market demand of elecronics accessories, computer and accessories and Home kitchen accessories among the target audience. This could be because the pricing strategies is okay with the customers OR that the reviews might be driving sales. Also, the products has a competitive adavantage of unique values proposition/ features. This is evedenced in High Revenue generated of Electronics accessories: #91,323,918,321.00, Computer Accessories: #11,628,224,483.38 and Home & Kitchen Accessories 10,457,243,329.00 respectively. Amazon Basics High-Speed Product(Product name) remains the product that has the highest number of reveiw as evidenced in sum of rating count of 853,946.00, BoAt Bassheads 100 in ear 772,426.00 and RedMi 9A Phone has 627,668.00 rating count. The company should tailor marketing strategies to the high revenue product categories with high revenue products. 
 
 On This Other hand, There is a Low revenue generation in Toys & Games, Car & motor bike, home improvement, Health & personal care equipments. The inference might be because in the Categories, there is low demand from the audience or that the pricing straegy are not competitive. This is informed from the #2,380,050.00, #4,472,000.00, #6,163,434.00 and #6,959,700.00 revenue generated from the product categories. The company should monitor customer feedback and market trends to drive sales grwoth and success of this goods also revise the procing, marketing or pricing from positioning from there, what is not working might start working. Serious advert is needed in category Toys & Games using animation that will appeal the children's eyes because these days they tend to go online frequently and their mind signals at what they like most.
+
+
 
 
 
