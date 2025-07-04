@@ -20,8 +20,10 @@ Amazon Sales Data: The primary dataset used for this analysis is the "Amazon_Cas
 
 ###  The EXPLORATORY DATA ANALYSIS (EDA):
 A Comprehensive Exploratory Data (EDA) were deployed using Excel tools and relevant techniques to the context of each analysis. I will explore the Amazon sales data to answer these keys questions. 
+
 ##### Task Question 1:
-* The analysis will be based on the use of Pivot tables and calculated columns where necessary to answer the following;
+
+The analysis will be based on the use of Pivot tables and calculated columns where necessary to answer the following;
   1. Find the average discount percentages by Product category
   2. Check how many products that are listed under each category
   3. Calculate the total number of review per category
@@ -64,12 +66,13 @@ In view of the preparation task concerning this product, I performed the followi
 - Custom Columns
 - split columns. See below the other codes; 
 
+
 <img width="858" alt="Excel Power query" src="https://github.com/user-attachments/assets/e39c8e85-e74d-4e2e-bb75-ded5babd9126" />
 
 
 In all, eight (8) columns were deleted because I didn't need it for the analysis and six (6) additional columns was created in addition to the important existing ones as it appears in the Amazon case study so as to tackled the two task questions simultenously.
 
-NEW TABLES ARE SHOWN THUS:
+NEW TABLES CREATED ARE SHOWN THUS:
 
 * Price Range Bucket
 * Discount Band
@@ -102,17 +105,28 @@ Find attached the clean data set as it appears in the cleaned table.....
 
 **POTENTIAL REVENUE:**
 
-Having Calculated and Sumed up the Revenue by Product categories, as the power pivot tips  results indicates, here is the evidence 
+Having Calculated and Suming up the  Potential Revenue by Product categories, as the power pivot tips  results indicates, here is the evidence 
    
 
 <img width="359" alt="TOTAL POTENTIAL REVENUE BY PRODUCT CATEGORY" src="https://github.com/user-attachments/assets/0e841958-42df-45a5-81a2-97484102133d" />
 
 
+LET'S CHECK THE AVERAGE DISCOUNT(%) PERCENTAGES BY EACH PRODUCT CATEGORY:
+
+
+<img width="323" alt="AVERAGE DISCOUNT PERCENTAGES1" src="https://github.com/user-attachments/assets/e57458ce-6ca7-4371-872c-d115d90a2f82" />
+
+
+The above showed the average discount percentages of each product, as evidenced that toy & games needs to revise the procing of the category as well as marketing positioning.
+
+
 ### INFERENCES:
 
-There is a strong market demand of elecronics accessories, computer and accessories and Home kitchen accessories among the target audience. This could be because the pricing strategies is okay with the customers OR that the reviews might be driving sales. Also, the products has a competitive adavantage of unique values proposition/ features. This is evedenced in High Revenue generated of Electronics accessories: 91323,918,321, Computer Accessories: 11,628,224,483 and Home & Kitchen Accessories 10,459,722,337 respectively. Amazon Basics High-Speed Product(Product name) remains the product that has the highest number of reveiw as evidenced in sum of rating count of 853,946.00, BoAt Bassheads 100 in ear 772,426.00 and RedMi 9A Phone has 627,668.00 rating count. The company should tailor marketing strategies to the high revenue product categories with high revenue products 
+There is a strong market demand of elecronics accessories, computer and accessories and Home kitchen accessories among the target audience. This could be because the pricing strategies is okay with the customers OR that the reviews might be driving sales. Also, the products has a competitive adavantage of unique values proposition/ features. This is evedenced in High Revenue generated of Electronics accessories: #91,323,918,321.00, Computer Accessories: #11,628,224,483.38 and Home & Kitchen Accessories 10,457,243,329.00 respectively. Amazon Basics High-Speed Product(Product name) remains the product that has the highest number of reveiw as evidenced in sum of rating count of 853,946.00, BoAt Bassheads 100 in ear 772,426.00 and RedMi 9A Phone has 627,668.00 rating count. The company should tailor marketing strategies to the high revenue product categories with high revenue products. 
 
-On This Other hand, There is a Low revenue generation in Toys & Games, Car & motor bike, home improvement Health & personal care equipments. The inference might be because in the Categories, there is low demand from the audience or that the pricing straegy are not competitive. This inference is informed from the #2,380,050, #4,472,000, #6,163,434 and #6,959,700 revenue generated from the product categories. The company should monitor customer feedback and market trends to drive sales grwoth and product success of this goods also revise the procing, marketing or pricing from positioning from there, what is not working might start working.
+On This Other hand, There is a Low revenue generation in Toys & Games, Car & motor bike, home improvement, Health & personal care equipments. The inference might be because in the Categories, there is low demand from the audience or that the pricing straegy are not competitive. This is informed from the #2,380,050.00, #4,472,000.00, #6,163,434.00 and #6,959,700.00 revenue generated from the product categories. The company should monitor customer feedback and market trends to drive sales grwoth and success of this goods also revise the procing, marketing or pricing from positioning from there, what is not working might start working. Serious advert is needed in category Toys & Games using animation that will appeal the children's eyes because these days they tend to go online frequently and their mind signals at what they like most.
+
+
 
 **SLICER/FILTERING**
 
