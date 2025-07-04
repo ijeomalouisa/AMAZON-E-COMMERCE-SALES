@@ -7,7 +7,7 @@ Amazon product review analysis project of the Digital Skillup Africa (DSA) was g
 Amazon is a company that provides E-commerce sales. They deals with different kinds of equipment/electronics and gadgets ranging from electronicsa and  accessorys, computer/accessories, car and motor bikes accessories, helath and personal care medical equipments, musical instrument, office products, toys and games etc. This data anlysis project allows to generate insight that can gide product improvement,marketing strategies and customer engagement of the company
 
 ### DATA SOURCE:
-Amazon Sales Data: The primary dataset used for this analysis is the "Amazon_Case_Study.xlsx" file. The dataset contains information from each sales which includes;
+**Amazon Sales Data:** The primary dataset used for this analysis is the "Amazon_Case_Study.xlsx" file. The dataset contains information from each sales which includes;
 * Product details: name, category, price, discount and ratings
 * Customer engagement: user reviews, titles, an content
 
@@ -122,7 +122,7 @@ Find attached the clean data set as it appears in the cleaned table.....
 **PRODUCT RATINGS:**
 The rating of the the above key metrics could be looked into taking cognizance of different diverse/effects such as; market influence, pricing, durability, government policies and seasonal influence. To rate the products, the company should consider using a simple framework.
 
-#### Product Insights and Customer Reviews:
+#### Product and story highlights:
 
 * Electronics, computer and accesories and home kitchen has a strong market demand as evidence in the number of products they sale, potential revenue generated, rating counts and the average discount percentages. This might be because of effective marketing and innovative solution, customers might be looking at the quality of the product (durability), this might be the cause of the increase in demand, delivery is also considered. Above all, the products remains the best seller with consistent sale growth.
 *  Musical Instrument and office product has stable demand but there should be room for improvement, this I think may lead to expansion and niche market is strongly adviced.
@@ -138,28 +138,27 @@ There is a strong market demand of elecronics accessories, computer and accessor
 On This Other hand, There is a Low revenue generation in Toys & Games, Car & motor bike, home improvement, Health & personal care accessories. The inference might be because in the Categories, there is low demand from the audience or that the pricing straegy are not competitive. This is informed from the #2,380,050.00, #4,472,000.00, #6,163,434.00 and #6,959,700.00 revenue generated from the product categories. The company should monitor customers feedback and market trends to drive sales growth and success of this goods also revise the pricing, marketing positioning from there, what is not working might start working well. Serious advert is needed in category Toys & Games using animation that will appeal the children's eyes because these days most of them tend to go online and their mind signals at what they like most.
 
 
-
-
-
 **SLICER/FILTERING**
-
-
-<img width="351" alt="REAL TIME FILTERING2" src="https://github.com/user-attachments/assets/8589245e-ca19-4136-bd07-c059b4c628ca" />
-
 
 **Real-time filtering across(Slicer) Product category, Price Range Buckect and High Discount**
 
 
 <img width="335" alt="Slicers " src="https://github.com/user-attachments/assets/c0c5cd4e-3a9a-42ef-862a-a61a79d0bfe9" />
 
-### Creation of Dashboard Using the Cleaned Dataset and Pivot Outputs
+#### TASK 2:   CREATION OF DASHBOARD 
+
+Here are Dashboards created Using the Cleaned Dataset and Pivot Outputs:
+
+
+
+<img width="388" alt="AMAZON DASHBOARD 2" src="https://github.com/user-attachments/assets/7d7b77e7-f3e2-497f-8369-90f8d1a439d7" />
 
 
 
 
-<img width="427" alt="DashBoard Creation" src="https://github.com/user-attachments/assets/dd72ea8d-74d4-4160-b287-ae73b5a7a408" />
 
-This DashBoard unleashed different creativity indicating a guide for data-driven decisions on marketing, resource allocation, pricing, most especially to derive sales growth and product features.
+The above Dashboard unleashed different creativity indicating a guide for data-driven decisions on marketing, resource allocation, pricing, most especially to derive sales growth and product features.
+
 
 ### RESULTS/FINDINGS:
    The result of the analysis are summarized as follows;
