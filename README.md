@@ -115,32 +115,27 @@ Find attached the clean data set as it appears in the cleaned table.....
 *  Average Discount Percentages Per Product and
 *  Total Reviews
 
- Kimg width="374" alt="KEY METRIC PRODUCTS" src="https://github.com/user-attachments/assets/f1851354-c205-4299-83a2-48d10e5f3e83" />
+ <img width="374" alt="KEY METRIC PRODUCTS" src="https://github.com/user-attachments/assets/f1851354-c205-4299-83a2-48d10e5f3e83" />
 
 
 
-**POTENTIAL REVENUE:**
+**PRODUCT RATINGS:**
+The rating of the the above key metrics could be looked into taking cognizance of different diverse/effects such as; market influence, pricing, durability, government policies and seasonal influence. To rate the products, the company should consider using a simple framework.
 
-Having Calculated and Suming up the  Potential Revenue by Product categories, as the power pivot tips  results indicates, here is the evidence 
-   
+#### Product Insights and Customer Reviews:
 
-<img width="359" alt="TOTAL POTENTIAL REVENUE BY PRODUCT CATEGORY" src="https://github.com/user-attachments/assets/0e841958-42df-45a5-81a2-97484102133d" />
-
-
-LET'S CHECK THE AVERAGE DISCOUNT(%) PERCENTAGES BY EACH PRODUCT CATEGORY:
-
-
-<img width="323" alt="AVERAGE DISCOUNT PERCENTAGES1" src="https://github.com/user-attachments/assets/e57458ce-6ca7-4371-872c-d115d90a2f82" />
-
-
-The above showed the average discount percentages of each product category. As evidenced, the company needs to revise the pricing of the toy and games category as well as marketing positioning.
+* Electronics, computer and accesories and home kitchen has a strong market demand as evidence in the number of products they sale, potential revenue generated, rating counts and the average discount percentages. This might be because of effective marketing and innovative solution, customers might be looking at the quality of the product (durability), this might be the cause of the increase in demand, delivery is also considered. Above all, the products remains the best seller with consistent sale growth.
+*  Musical Instrument and office product has stable demand but there should be room for improvement, this I think may lead to expansion and niche market is strongly adviced.
+*  Health & personal care, Home improvement has limited market interest which might be pricing issues. In this products, the needs arises once a while and not everyone pay attention to it except people that matters like hospital owned by government. Priviate hospital owned by individuals might refer patients if the equipment is not avaliable.
+* Car & motorbike is everyones choice of product. A product that has high production cost but the economy i.e. government policies (tax, custom duties, wages and salary) has most influence on it. It is a low revenue product as it has limited market interest and delining sales, so the company needs to revise the pricing as well as marketing position.
+* Toys & Games is a products that has limited market demand because it is mainly used by children and the sales has seasonal influence. The company needs to advertise the product in a physical market/Television mainly because most children don't order goods and services online as evidence in the company's sales.      
 
 
 ### INFERENCES:
 
-There is a strong market demand of elecronics accessories, computer and accessories and Home kitchen accessories among the target audience. This could be because the pricing strategies is okay with the customers OR that the reviews might be driving sales. Also, the products has a competitive adavantage of unique values proposition/ features. This is evedenced in High Revenue generated of Electronics accessories: #91,323,918,321.00, Computer Accessories: #11,628,224,483.38 and Home & Kitchen Accessories 10,457,243,329.00 respectively. Amazon Basics High-Speed Product(Product name) remains the product that has the highest number of reveiw as evidenced in sum of rating count of 853,946.00, BoAt Bassheads 100 in ear 772,426.00 and RedMi 9A Phone has 627,668.00 rating count. The company should tailor marketing strategies to the high revenue product categories with high revenue products. 
+There is a strong market demand of elecronics accessories, computer and accessories and Home kitchen accessories among the target audience. This could be because the pricing strategies is okay with the customers OR that the reviews might be driving sales. Also, the products has a competitive adavantage of unique values proposition/ features. This is evidenced in the High Revenue generated of Electronics accessories: #91,323,918,321.00, Computer Accessories: #11,628,224,483.38 and Home & Kitchen Accessories #10,457,243,329.00 respectively. Amazon Basics High-Speed Product(Product name) remains the product that has the highest number of reveiw as evidenced in sum of rating count of 853,946.00, BoAt Bassheads 100 in ear 772,426.00 and RedMi 9A Phone has 627,668.00 rating count. The company should tailor marketing strategies to the high revenue product categories with high revenue products. 
 
-On This Other hand, There is a Low revenue generation in Toys & Games, Car & motor bike, home improvement, Health & personal care equipments. The inference might be because in the Categories, there is low demand from the audience or that the pricing straegy are not competitive. This is informed from the #2,380,050.00, #4,472,000.00, #6,163,434.00 and #6,959,700.00 revenue generated from the product categories. The company should monitor customer feedback and market trends to drive sales grwoth and success of this goods also revise the procing, marketing or pricing from positioning from there, what is not working might start working. Serious advert is needed in category Toys & Games using animation that will appeal the children's eyes because these days they tend to go online frequently and their mind signals at what they like most.
+On This Other hand, There is a Low revenue generation in Toys & Games, Car & motor bike, home improvement, Health & personal care accessories. The inference might be because in the Categories, there is low demand from the audience or that the pricing straegy are not competitive. This is informed from the #2,380,050.00, #4,472,000.00, #6,163,434.00 and #6,959,700.00 revenue generated from the product categories. The company should monitor customers feedback and market trends to drive sales growth and success of this goods also revise the pricing, marketing positioning from there, what is not working might start working well. Serious advert is needed in category Toys & Games using animation that will appeal the children's eyes because these days most of them tend to go online and their mind signals at what they like most.
 
 
 
