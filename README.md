@@ -19,7 +19,7 @@ Amazon is a company that provides E-commerce sales. They deals with different ki
 - Pivot tables (to analyze the data from different angles to identify trends and patterns so as to make informed decision)
 
 ###  The EXPLORATORY DATA ANALYSIS (EDA):
-A Comprehensive Exploratory Data (EDA) were deployed using Excel tools and relevant techniques to the context of each analysis. I will explore the Amazon sales data to answer these keys questions. 
+A Comprehensive Exploratory Data (EDA) were deployed using Excel tools and relevant techniques to the context of each analysis. I will explore the Amazon sales data to answer these key questions. 
 
 ##### Task Question 1:
 
@@ -34,9 +34,9 @@ The analysis will be based on the use of Pivot tables and calculated columns whe
   8. Show the distribution of product ratings i.e. how many products that are rateed 3.0, 4.0 etc
   9. calculate thetotal potential revenue of actual price * rating count by category
   10. Finds out the number of unique products per price range bucket e.g. <200, <200-500, >500
-  11. To Know How the rating relate to the level of discount
+  11. To Know kow the rating relate to the level of discount
   12. Check how many products have fewer than 1,000 reviews
-  13. Which categories have product with teh hest discounts
+  13. Which categories have product with the highest discounts
   14. To identify the top 5 products in terms of rating and number of reviews combined
   
 #### Task Question 2: Dashboard Creation
@@ -123,6 +123,8 @@ Find attached the clean data set as it appears in the cleaned table.....
 The rating of the the above key metrics could be looked into taking cognizance of different diverse/effects such as; market influence, pricing, durability, government policies and seasonal influence. To rate the products, the company should consider using a simple framework.
 
 #### Product and story highlights:
+
+This story will highlight the importance of product portolio management and data driven decision marking that can guide AMAZON COMPANY for product improvement, marketing strategies and customer engagement:
 
 * Electronics, computer and accesories and home kitchen has a strong market demand as evidence in the number of products they sale, potential revenue generated, rating counts and the average discount percentages. This might be because of effective marketing and innovative solution, customers might be looking at the quality of the product (durability), this might be the cause of the increase in demand, delivery is also considered. Above all, the products remains the best seller with consistent sale growth.
 *  Musical Instrument and office product has stable demand but there should be room for improvement, this I think may lead to expansion and niche market is strongly adviced.
