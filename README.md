@@ -18,7 +18,7 @@ Amazon is a company that provides E-commerce sales. They deals with different ki
 - Pivot Charts ( for visualizing of the summarized data)
 - Pivot tables (to analyze the data from different angles to identify trends and patterns so as to make informed decision)
 
-###  The EXPLORATORY DATA ANALYSIS (EDA):
+###  EXPLORATORY DATA ANALYSIS (EDA):
 A Comprehensive Exploratory Data (EDA) were deployed using Excel tools and relevant techniques to the context of each analysis. I will explore the Amazon sales data to answer these key questions. 
 
 ##### Task Question 1:
@@ -40,7 +40,7 @@ The analysis will be based on the use of Pivot tables and calculated columns whe
   14. To identify the top 5 products in terms of rating and number of reviews combined
   
 #### Task Question 2: Dashboard Creation
-I will use the clean dataset and pivot outputs and build an Excel dashboard to unleash beautiful creativity
+I will use the clean dataset with the pivot outputs and build an Excel dashboard to unleash beautiful creativity
 
 ### DATA CLEANING/PREPARATION (EXCEL)
 In view of the preparation task concerning this product, I performed the followings: we have 2 options for the cleaning. We can go by writing funtion/formular or use Excel power query, I choosed Power query instead. 
