@@ -102,9 +102,11 @@ Find attached the clean data set as it appears in the cleaned table.....
 
 **POTENTIAL REVENUE:**
 
-Having Calculated and sumed the Revenue by Product categories, as the power pivot tips  results indicates, 
+Having Calculated and Sumed up the Revenue by Product categories, as the power pivot tips  results indicates, here is the evidence 
    
-<img width="273" alt="Potential Revenue" src="https://github.com/user-attachments/assets/bab84bd8-2e2b-4e02-890f-9e2d88d2e0d3" />
+
+<img width="359" alt="TOTAL POTENTIAL REVENUE BY PRODUCT CATEGORY" src="https://github.com/user-attachments/assets/0e841958-42df-45a5-81a2-97484102133d" />
+
 
 ### INFERENCES:
 
