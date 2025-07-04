@@ -108,7 +108,9 @@ Find attached the clean data set as it appears in the cleaned table.....
 
 
    
-### KEY METRICS:
+### KEY METRICS ANALYSIS
+
+These few metrics are analyzed and the graphs shown below in a power pivot;
 
 *  Total number of Product
 *  Total potential Revenue
@@ -122,9 +124,9 @@ Find attached the clean data set as it appears in the cleaned table.....
 **PRODUCT RATINGS:**
 The rating of the the above key metrics could be looked into taking cognizance of different diverse/effects such as; market influence, pricing, durability, government policies and seasonal influence. To rate the products, the company should consider using a simple framework.
 
-#### Product and story highlights:
+#### Product and Story highlights:
 
-This story will highlight the importance of product portolio management and data driven decision marking that can guide AMAZON COMPANY for product improvement, marketing strategies and customer engagement:
+This story will highlight the importance of product management and data driven decision marking that can guide AMAZON COMPANY for product improvement, marketing strategies and customer engagement:
 
 * Electronics, computer and accesories and home kitchen has a strong market demand as evidence in the number of products they sale, potential revenue generated, rating counts and the average discount percentages. This might be because of effective marketing and innovative solution, customers might be looking at the quality of the product (durability), this might be the cause of the increase in demand, delivery is also considered. Above all, the products remains the best seller with consistent sale growth.
 *  Musical Instrument and office product has stable demand but there should be room for improvement, this I think may lead to expansion and niche market is strongly adviced.
@@ -147,7 +149,7 @@ On This Other hand, There is a Low revenue generation in Toys & Games, Car & mot
 
 <img width="335" alt="Slicers " src="https://github.com/user-attachments/assets/c0c5cd4e-3a9a-42ef-862a-a61a79d0bfe9" />
 
-#### TASK 2:   CREATION OF DASHBOARD 
+### TASK 2:   CREATION OF DASHBOARD 
 
 Here are Dashboards created Using the Cleaned Dataset and Pivot Outputs:
 
@@ -162,12 +164,12 @@ Here are Dashboards created Using the Cleaned Dataset and Pivot Outputs:
 The above Dashboard unleashed different creativity indicating a guide for data-driven decisions on marketing, resource allocation, pricing, most especially to derive sales growth and product features.
 
 
-### RESULTS/FINDINGS:
+### FINDINGS:
    The result of the analysis are summarized as follows;
    - The products category in electornics, computers, and Home and kitcen accessories has higher potential for generating more revenue
    - The company should analyze and improve low revenue products or consider alternatives i.e. optimization, repositioning or discontinuation of the products.
 
-### Recommendations
+### RECOMMENDATIONS
 
 1. The company should tailor marketing strategies to the product category with high revenue productions
 2. They should check/Re-evaluate what is not working by revising pricing, marketing or pricing positioning of the low revenue generated products
