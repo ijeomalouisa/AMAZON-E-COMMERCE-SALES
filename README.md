@@ -128,7 +128,7 @@ The rating of the the above key metrics could be looked into taking cognizance o
 
 #### INFERENCES:
 
-This story will highlight the importance of product management and data driven decision marking that can guide AMAZON COMPANY for product improvement, marketing strategies and customer engagement:
+This story will highlight the importance of product management and data driven decision making that can guide AMAZON COMPANY for product improvement, marketing strategies and customer engagement:
 
 * Electronics, computer and accesories and home kitchen has a strong market demand as evidence in the number of products they sale, potential revenue generated, rating counts and the average discount percentages. This might be because of effective marketing and innovative solution, customers might be looking at the quality of the product (durability), this might be the cause of the increase in demand, delivery is also considered. Above all, the products remains the best seller with consistent sale growth.
 *  Musical Instrument and office product has stable demand but there should be room for improvement, this I think may lead to expansion and niche market is strongly adviced.
@@ -153,11 +153,12 @@ On This Other hand, There is a Low revenue generation in Toys & Games, Car & mot
 
 ### TASK 2:   CREATION OF DASHBOARD 
 
-Here are Dashboards created Using the Cleaned Dataset and Pivot Outputs:
+This is a Dashboard created Using the Cleaned Dataset and Pivot Outputs:
 
 
 
 <img width="388" alt="AMAZON DASHBOARD 2" src="https://github.com/user-attachments/assets/7d7b77e7-f3e2-497f-8369-90f8d1a439d7" />
+
 
 
 
