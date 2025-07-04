@@ -62,11 +62,14 @@ In view of the preparation task concerning this product, I performed the followi
 17. Close and Load my query.
 
 #### Steps taken for Data Cleaning: Here are some interesting codes used in the course of this Cleaning analysis
-- conditional columns
-- Custom Columns ... See below other codes; 
+- conditional columns AND
+- Custom Columns ... See below other steps; 
 
 
-<img width="858" alt="Excel Power query" src="https://github.com/user-attachments/assets/e39c8e85-e74d-4e2e-bb75-ded5babd9126" />
+
+
+
+<img width="706" alt="AMAZON POWER QUERY" src="https://github.com/user-attachments/assets/4db12e29-4e8a-4bf2-960c-8a8c78600904" />
 
 
 In all, eight (8) columns were deleted because it is not needed in the analysis and six (6) additional columns was created in addition to the important existing ones as it appears in the Amazon case study so as to tackled the two task questions simultenously.
