@@ -15,8 +15,8 @@ Amazon Sales Data: The primary dataset used for this analysis is the "Amazon_Cas
 - Microsoft Excel (https://www.microsoft.com), other tools I used to explore are;
 - Excel Power query (for cleaning of the data)
 - Calculated columns (for creating new metrics of KPIs)
-- Pivot Charts( for visualizing of the summarized data
-- Pivot tables (to analyze the data from different angles to identify trends and patterns so as to make informed decision.
+- Pivot Charts ( for visualizing of the summarized data)
+- Pivot tables (to analyze the data from different angles to identify trends and patterns so as to make informed decision)
 
 ###  The EXPLORATORY DATA ANALYSIS (EDA):
 A Comprehensive Exploratory Data (EDA) were deployed using Excel tools and relevant techniques to the context of each analysis. I will explore the Amazon sales data to answer these keys questions. 
@@ -41,32 +41,49 @@ A Comprehensive Exploratory Data (EDA) were deployed using Excel tools and relev
 I will use the clean dataset and pivot outputs and build an Excel dashboard to unleash beautiful creativity
 
 ### DATA CLEANING/PREPARATION (EXCEL)
-In view of the preparation task concerning this product, I performed the followings: we have 2 options for the cleaning. We can go by writing formular or use Excel power query, I choosed Power query instead. 
-1. To "DATA" menu, from get and transform data, the table/range,
+In view of the preparation task concerning this product, I performed the followings: we have 2 options for the cleaning. We can go by writing funtion/formular or use Excel power query, I choosed Power query instead. 
+1. To "DATA" menu, "from get and transform data", click the table/range,
 2. The data was loaded to the Excel power querry,
-3. I viewed it to see the column quality, going through it, I observed that there was 1 error in rating count only. as far as am concerned the data is dirty.
-4. I shortened the "category" aspected of the dataset to make it look good if not, in course of the analysis it may be too long.
-5. Highlit and Right click on the category to choose split column by delimiter i.e. "left most delimiter", Okay, it split it into two, in the computer and accessories writing together
-6. right click again to replace values i.e value to find & then replace with space (it will be divided into two
+3. I viewed it to see the column quality, going through it, I observed that there was "NULLs" and "ERROR" in rating count. as far as am concerned the data is dirty.
+4. I shortened the "category" aspected of the dataset to make it look good if not, in the course of the analysis it may be too long.
+5. Highlit and Right click on the category to choose split column by delimiter i.e. "left most delimiter", Ok, it split it into two, in the computer and accessories writing together
+6. Right click again to replace values i.e value to find & then replace with space (it will be divided into two
 7. HomeImprovement, MusicalIstrument and Officepractice are still together and they are the three arguments I added space
-8. Go to add column, "Conditional column", HomeImprovement, category 1, then HomeImprovement writing in space e.g. replace Home Improvement
+8. IgGo to add column, "Conditional column", HomeImprovement, category 1, then HomeImprovement writing in space e.g. replace Home Improvement
 9. add clause to repeat the remaining two i.e. MusicalInstrument and OfficePractice, Else Category 1
 10. In the product name, count the number of character, I counted and stoped at 25 character including the spaces,
 11. split the column again BUT not by delimiter, Split by number of character "once as far left as posible"
 12. add the 25 and check on "once as far left as possible
 13. Right Click and remove the splited right column
 14. change the data types
-15. I removed other columns that are not needed. the img link, user-name, review content and product link were removed because they are not necessary.
+15. I removed columns that are not needed. i.e. the img link, user-name, review content and product link etc because they are not necessary.
 16. Close and Load my query.
 
-#### Steps taken in Data Cleaning: Here are some interesting codes used in the course of this Cleaning analysis
+#### Steps taken for Data Cleaning: Here are some interesting codes used in the course of this Cleaning analysis
 - conditional columns
+- Custom Columns
 - split columns. See below the other codes; 
 
 <img width="858" alt="Excel Power query" src="https://github.com/user-attachments/assets/e39c8e85-e74d-4e2e-bb75-ded5babd9126" />
 
 
-#### Some writing calculated Column formulars: 
+In all, eight (8) columns were deleted because I didn't need it for the analysis and six (6) additional columns was created in addition to the important existing ones as it appears in the Amazon case study so as to tackled the two task questions simultenously.
+
+NEW TABLES ARE SHOWN THUS:
+
+* Price Range Bucket
+* Discount Band
+* High Discount
+* Low Review
+* Total Potential Revenue
+* Combined Scores
+
+Find attached the clean data set as it appears in the cleaned table.....
+
+
+<img width="770" alt="AMAZON CLEANED TABLE" src="https://github.com/user-attachments/assets/22d947f5-583e-4501-a230-9ee2fa45baf8" />
+
+#### Here are Some calculated Column funtions, if I was to clean the data with it: 
 ...xlsx
 
    To shortened the Product Category:
@@ -81,7 +98,7 @@ In view of the preparation task concerning this product, I performed the followi
    For More than 50% Discount:
    =IF(H2>=50%,">50%","<50%")
    
-### KEY METRICS
+### KEY METRICS:
 
 **POTENTIAL REVENUE:**
 
