@@ -137,7 +137,7 @@ This story will highlight the importance of product management and data driven d
 * Toys & Games is a products that has limited market demand because it is mainly used by children and the sales has seasonal influence. The company needs to advertise the product in a physical market/Television mainly because most children don't order goods and services online as evidence in the company's sales.      
 
 
-### FINDINGS AFTER INFERENCE:
+### FINDINGS:
 
 There is a strong market demand of elecronics accessories, computer and accessories and Home kitchen accessories among the target audience. This could be because the pricing strategies is okay with the customers OR that the reviews drive sales. Also, the products has a competitive adavantage of unique values proposition/ features. This is evidenced in the High Revenue generated of Electronics accessories: #91,323,918,321.00, Computer Accessories: #11,628,224,483.38 and Home & Kitchen Accessories #10,457,243,329.00 respectively. Amazon Basics High-Speed Product(Product name) remains the product that has the highest number of reveiw as evidenced in sum of rating count of 853,946.00, BoAt Bassheads 100 in ear 772,426.00 and RedMi 9A Phone has 627,668.00. The company should tailor marketing strategies to the high revenue product categories with high revenue products. 
 
